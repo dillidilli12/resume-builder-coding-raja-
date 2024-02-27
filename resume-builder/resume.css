@@ -1,0 +1,14 @@
+/*#cv-form {
+    display: none;
+
+}*/
+#cv-template{
+    display: none;
+}
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+}
+.background{
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
